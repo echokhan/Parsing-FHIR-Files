@@ -1,0 +1,6 @@
+official_given_name,birthDate,gender,active,home_address,city,phone,filename
+Donald,,male,true,Null,Null,Null,patient-example-a.json
+"Duck,D",,other,true,Null,Null,Null,patient-example-b.json
+"Peter,James",1974-12-25,male,true,"534 Erewhon St PeasantVille, Rainbow, Vic  3999",PleasantVille,(03) 5555 6473,patient-example.json
+Simon,1982-01-23,male,true,Null,Null,Null,patient-example-c.json
+Sandy,1982-08-02,female,true,Null,Null,Null,patient-example-d.json

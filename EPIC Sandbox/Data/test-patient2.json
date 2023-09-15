@@ -1,0 +1,11 @@
+{
+    "Patient": "Desiree Powell",
+    "Identifiers and Credentials":  {
+        "FHIR": "eAB3mDIBBcyUKviyzrxsnAw3",
+        "External": "Z6130",
+        "MRN": 203714,
+        "MyChart Login Username": "fhirdesiree",
+        "MyChart Login Password": "epicepic1"
+    },
+    "Applicable Resources": ["Immunization", "Observation (Vitals)", "Patient"]
+}

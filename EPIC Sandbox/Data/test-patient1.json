@@ -1,0 +1,11 @@
+{
+    "Patient": "Derrick Lin",
+    "Identifiers and Credentials":  {
+        "FHIR": "eq081-VQEgP8drUUqCWzHfw3",
+        "External": "Z6127",
+        "MRN": 203711,
+        "MyChart Login Username": "fhirderrick",
+        "MyChart Login Password": "epicepic1"
+    },
+    "Applicable Resources": ["CarePlan", "Condition", "Goal", "Medication", "MedicationOrder", "MedicationRequest", "MedicationStatement", "Observation (Smoking History)", "Patient"]
+}

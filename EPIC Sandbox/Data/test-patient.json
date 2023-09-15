@@ -1,0 +1,11 @@
+{
+    "Patient": "Camila Lopez",
+    "Identifiers and Credentials":  {
+        "FHIR": "erXuFYUfucBZaryVksYEcMg3",
+        "External": "Z6129",
+        "MRN": 203713,
+        "MyChart Login Username": "fhircamila",
+        "MyChart Login Password": "epicepic1"
+    },
+    "Applicable Resources": ["DiagnosticReport", "Medication", "MedicationOrder", "MedicationRequest", "MedicationStatement", "Observation (Labs)", "Patient", "Procedure"]
+}

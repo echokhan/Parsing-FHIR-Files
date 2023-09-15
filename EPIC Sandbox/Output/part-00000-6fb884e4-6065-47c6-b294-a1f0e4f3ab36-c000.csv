@@ -1,0 +1,4 @@
+Patient,Identifiers_and_Credentials_FHIR,Identifiers_and_Credentials_External,Identifiers_and_Credentials_MRN,Identifiers_and_Credentials_MyChart_Login_Username,Identifiers_and_Credentials_MyChart_Login_Password,Applicable Resources
+Camila Lopez,erXuFYUfucBZaryVksYEcMg3,Z6129,203713,fhircamila,epicepic1,"[DiagnosticReport, Medication, MedicationOrder, MedicationRequest, MedicationStatement, Observation (Labs), Patient, Procedure]"
+Derrick Lin,eq081-VQEgP8drUUqCWzHfw3,Z6127,203711,fhirderrick,epicepic1,"[CarePlan, Condition, Goal, Medication, MedicationOrder, MedicationRequest, MedicationStatement, Observation (Smoking History), Patient]"
+Desiree Powell,eAB3mDIBBcyUKviyzrxsnAw3,Z6130,203714,fhirdesiree,epicepic1,"[Immunization, Observation (Vitals), Patient]"

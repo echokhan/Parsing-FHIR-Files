@@ -5,14 +5,14 @@ This repo contains input and output files, along with the code that has been exp
 There are two different FHIR files that we have processed.
 
 For *OpenEpic*, following steps were completed:
-- Read test-patient.json, test-patient1.json, test-patient3.json files from a path in S3. Available [here](www.okay.com)
+- Read test-patient.json, test-patient1.json, test-patient3.json files from a path in S3. Available [here](https://github.com/echokhan/Parsing-FHIR-Files/tree/main/EPIC%20Sandbox/Data)
 - Used a StructType schema, reading 'Identifiers and Credentials' as a JSON string for now, to later convert it into map type.
 - Flattened the map type into individual columns.
 - Converted ArrayType column Applicable Resources to string, as CSV does not support ArrayType columns
 - Saved a CSV to S3.
 
 For *FHIR* patient resouces, following steps were completed:
-- Read patient-example.json, patient-example-a.json, patient-example-b.json, patient-example-c.json, and patient-example-d.json. Available [here](www.okay.com)
+- Read patient-example.json, patient-example-a.json, patient-example-b.json, patient-example-c.json, and patient-example-d.json. Available [here](https://github.com/echokhan/Parsing-FHIR-Files/tree/main/FHIR%20Resource/Data)
 - Used a schema, with modifications for name, address, telecom fields. Read them as array of strings rather than array of structs.
 - Extracted official_given_name from name field.
 - Extracted home_address from address field.
